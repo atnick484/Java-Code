@@ -1,0 +1,10 @@
+1,10,gloves
+2,20,hat
+3,30,t-shirt
+4,40,sweater
+5,50,hoodie
+6,60,jeans
+7,70,pants
+8,80,jacket
+9,90,coat
+10,100,suit
